@@ -15,7 +15,7 @@
     "rollup-plugin-terser": "^5.1.2",
     "mapbox": "^1.0.0-beta10",
     "mapbox-gl": "^1.8.1",
-    "svelte": "^3.0.0",
+    "svelte": "^3.49.0",
     "sirv-cli": "^0.4.5"
   },
   "dependencies": {}
